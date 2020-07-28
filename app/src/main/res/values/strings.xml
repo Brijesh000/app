@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">19SOECE13019</string>
+    <string name="todo">TODO</string>
+    <string name="_19soece13019">19SOECE13019</string>
+    <string name="firstname">Brijesh</string>
+    <string name="medalname">Umesh Bhai</string>
+    <string name="lastname">Soneji</string>
+    <string name="email">bsoneji755@rku.ac.in</string>
+    <string name="mno">7046428805</string>
+    <string name="gender">Male</string>
+    <string name="city">Kalavad</string>
+</resources>
